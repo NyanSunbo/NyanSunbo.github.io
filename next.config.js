@@ -6,5 +6,5 @@ const nextConfig = {}
 const isProd = process.env.NODE_ENV === 'production';
 module.exports = {
   reactStrictMode: true,
-  assetPrefix: isProd ? '/bunnyanport/' : '',
+  assetPrefix: isProd ? '/NyanSunbo.github.io/' : '',
 };
